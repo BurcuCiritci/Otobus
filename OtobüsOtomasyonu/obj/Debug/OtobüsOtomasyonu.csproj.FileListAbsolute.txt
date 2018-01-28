@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\OtobüsOtomasyonu\OtobüsOtomasyonu\bin\Debug\OtobüsOtomasyonu.exe.config
+c:\users\user\documents\visual studio 2015\Projects\OtobüsOtomasyonu\OtobüsOtomasyonu\bin\Debug\OtobüsOtomasyonu.exe
+c:\users\user\documents\visual studio 2015\Projects\OtobüsOtomasyonu\OtobüsOtomasyonu\bin\Debug\OtobüsOtomasyonu.pdb
+c:\users\user\documents\visual studio 2015\Projects\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.exe
+c:\users\user\documents\visual studio 2015\Projects\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.pdb
+c:\users\user\documents\visual studio 2015\Projects\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.KayitForm.resources
+C:\Users\user\documents\visual studio 2015\Projects\OtobüsOtomasyonu\OtobüsOtomasyonu\obj\Debug\OtobüsOtomasyonu.Form2.resources
